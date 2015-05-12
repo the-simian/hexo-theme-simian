@@ -9,7 +9,7 @@ My personal theme for hexo
 ### Install
 
 ``` bash
-$ git clone https://github.com/hexojs/hexo-theme-simian.git themes/simian
+$ git clone git@github.com:the-simian/hexo-theme-simian.git themes/simian
 ```
 
 **Landscape requires Hexo 2.4 and above.**
